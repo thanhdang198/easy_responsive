@@ -16,10 +16,16 @@ You must call the initialization function before use the package.
     EasyResponsive().initialize(
         context: context, designScreenWidth: 375, designScreenHeight: 812);
 ```
+
+
 like this:
 ![demo code](https://github.com/thanhdang198/easy_responsive/blob/main/demo_code.png?raw=true)
+
+
 You can get the design screen width and height like this:
 ![design guide](https://github.com/thanhdang198/easy_responsive/blob/main/design_guide.png?raw=true)
+
+
 Then, please use the width and height of the figma design with `.w` and `.h`
 like this:
 ```dart
