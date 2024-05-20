@@ -1,5 +1,4 @@
-name: easy_responsive
-platforms: android, ios
+name: flutter_easy_responsive
 description: "Easy calculate the width and height of the widget from figma design"
 version: 1.0.0
 homepage: https://thanhdt.dev

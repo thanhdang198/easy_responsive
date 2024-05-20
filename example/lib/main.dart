@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:easy_responsive/easy_responsive.dart';
+import 'package:flutter_easy_responsive/flutter_easy_responsive.dart';
 
 void main() {
   runApp(const MyApp());
